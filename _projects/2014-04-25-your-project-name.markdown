@@ -1,11 +1,11 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Stop Sign Detection"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_09.jpg
+img: portfolio_18.jpg
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
