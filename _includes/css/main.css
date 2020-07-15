@@ -220,8 +220,8 @@ a:focus {
 	/*background-color: {{ site.colors.primary }};*/
 	background-image: url('{{ site.baseurl }}/assets/img/header-bg.jpg');
 	min-height: 0px;
-	padding-top: 100px;
-	padding-bottom: 50px;
+	padding-top: 200px;
+	padding-bottom: 150px;
 	text-align: center;
 }
 
