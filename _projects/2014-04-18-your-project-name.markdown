@@ -1,11 +1,11 @@
 ---
 layout: project
-title:  "YOUR PROJECT NAME"
+title:  "Conference Presentation"
 date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
-img: portfolio_12.jpg
+img: portfolio_15.gif
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
