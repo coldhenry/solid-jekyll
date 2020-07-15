@@ -217,7 +217,7 @@ a:focus {
 
 
 #headerwrap {
-	background-color: {{ site.colors.primary }};
+	/*background-color: {{ site.colors.primary }};*/
 	background-image: url('{{ site.baseurl }}/assets/img/browser.jpg');
 	min-height: 0px;
 	padding-top: 100px;
