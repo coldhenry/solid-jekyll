@@ -5,7 +5,7 @@ date:   2020-7-14 06:28:46
 author: Henry Liu
 categories:
 - project
-img: portfolio_00.jpg
+img: portfolio_00.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
